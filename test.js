@@ -1,6 +1,6 @@
 <?php
 
-/**
+**
  * Executes a greeting.
  *
  * This file is intended to run logic with side effects
